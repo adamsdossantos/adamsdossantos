@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ai agents, machine learning, RAG, deep learning
 - 💞️ I’m looking to collaborate on projets that merge business and machine learning / AI
 - 📫 How to reach me: linkedin.com/in/adamssouza
-- 😄 Pronouns: Him/He
+- 😄 Pronouns: He/Him
   
 
 <!---
